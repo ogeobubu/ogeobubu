@@ -11,7 +11,6 @@
 
 - 👨‍💻 Pronouns: He/Him
 - 📫 How to reach me: 
-- <div>
 - [![Linkedin Badge](https://img.shields.io/badge/-ogeobubu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oge-obubu/)](https://www.linkedin.com/in/oge-obubu/)
     
  [![Twitter Badge](https://img.shields.io/badge/-@obubuoge-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=obubuoge "Follow on Twitter")
