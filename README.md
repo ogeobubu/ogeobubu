@@ -5,7 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/obubuoge)](https://twitter.com/obubuoge)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ogeobubu)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ogeobubu&show_icons=true&hide_border=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogeobubu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="	Oge Obubu's Github Stats">
 
 ## 🧐 About
