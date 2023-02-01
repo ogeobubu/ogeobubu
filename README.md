@@ -1,6 +1,6 @@
 # 𝗛i there👋 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [Oge Obubu](https://github.com/ogeobubu)！𝗜'𝗺 𝗮 frontend developer or Full Stack MERN developer based in Nigeria 🇳🇬 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 writing clean and reusable code, optimizing codebase for better web performance and enjoy converting ideas into real life projects.
+𝗜'𝗺 [Oge Obubu](https://github.com/ogeobubu)！𝗜'𝗺 𝗮 frontend developer or Full Stack MERN developer based in Nigeria 🇳🇬 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 writing clean and reusable code, optimizing codebase for better web performance and enjoy converting ideas into real life projects..
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/obubuoge)](https://twitter.com/obubuoge)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ogeobubu)
