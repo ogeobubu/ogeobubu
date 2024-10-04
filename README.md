@@ -1,6 +1,6 @@
 # Hi there! 👋 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-I'm [Oge Obubu](https://github.com/ogeobubu), a frontend developer and Full Stack MERN developer based in Nigeria 🇳🇬. I'm passionate about writing clean and reusable code, optimizing codebase for better web performance, and enjoying converting ideas into real-life projects.
+I'm [Oge Obubu](https://github.com/ogeobubu), a frontend developer and Full Stack MERN developer based in Nigeria 🇳🇬. I'm passionate about writing clean and reusable code, optimizing codebases for better web performance, and converting ideas into real-life projects.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/obubuoge)](https://twitter.com/ogeobubu)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ogeobubu)
@@ -9,11 +9,12 @@ I'm [Oge Obubu](https://github.com/ogeobubu), a frontend developer and Full Stac
 
 ## 🧐 About Me
 
-- 👨‍💻 Pronouns: He/Him
-- 📫 How to reach me: 
-  - [![Linkedin Badge](https://img.shields.io/badge/-ogeobubu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oge-obubu/)](https://www.linkedin.com/in/oge-obubu/)
+- 👨‍💻 **Pronouns:** He/Him
+- 📫 **How to reach me:**
+  - [![LinkedIn Badge](https://img.shields.io/badge/-ogeobubu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oge-obubu/)](https://www.linkedin.com/in/oge-obubu/)
   - [![Twitter Badge](https://img.shields.io/badge/-@ogeobubu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=obubuoge "Follow on Twitter")
-- 🌱 Languages and Tools:
+
+- 🌱 **Languages and Tools:**
 
 <div align="left">
   <p align="left">
