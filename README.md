@@ -1,19 +1,19 @@
 # Hi there! 👋 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-I'm [Oge Obubu](https://github.com/ogeobubu), a frontend developer and Full Stack MERN developer based in Nigeria 🇳🇬. I'm passionate about writing clean and reusable code, optimizing codebases for better web performance, and converting ideas into real-life projects.
+I'm [Oge Obubu](https://github.com/ogeobubu), a frontend developer and Full Stack MERN developer based in Nigeria 🇳🇬. I'm passionate about writing clean and reusable code, optimizing codebase for better web performance, and enjoying converting ideas into real-life projects.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/obubuoge)](https://twitter.com/ogeobubu)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ogeobubu)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ogeobubu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Oge Obubu's Github Stats">
 
-# 🧐 About Me
-- 👨‍💻 **Pronouns:** He/Him
-- 📫 **How to reach me:**
-  - [![LinkedIn Badge](https://img.shields.io/badge/-ogeobubu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oge-obubu/)](https://www.linkedin.com/in/oge-obubu/)
-  - [![Twitter Badge](https://img.shields.io/badge/-@ogeobubu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=obubuoge "Follow on Twitter")
+### 🧐 About Me
 
-- 🌱 **Languages and Tools:**
+- 👨‍💻 Pronouns: He/Him
+- 📫 How to reach me: 
+  - [![Linkedin Badge](https://img.shields.io/badge/-ogeobubu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oge-obubu/)](https://www.linkedin.com/in/oge-obubu/)
+  - [![Twitter Badge](https://img.shields.io/badge/-@ogeobubu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=obubuoge "Follow on Twitter")
+- 🌱 Languages and Tools:
 
 <div align="left">
   <p align="left">
