@@ -1,38 +1,48 @@
-# Hi there! 👋 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ogeobubu" />
 
-I'm [Oge Obubu](https://github.com/ogeobubu), a frontend developer and full-stack MERN developer based in Nigeria 🇳🇬. I'm passionate about writing clean and reusable code, optimizing codebase for better web performance, and enjoying converting ideas into real-life projects..
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Oge+!;" />
+</h1>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ogeobubu)](https://twitter.com/ogeobubu)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ogeobubu)
+<h3 align="center">Frontend | MERN Stack | Software Developer</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ogeobubu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Oge Obubu's Github Stats">
+<br/>
 
-### 🧐 About Me
+<div align="center">
+ 
+ 🔭 I’m on a mission to **turn my ideas into reality!**  
+ 🌱 Currently diving into **React Native** to expand my horizons.  
+ 💬 Let's chat! Ask me anything about **JavaScript, TypeScript, React, TailwindCSS, NodeJS**... or drop me a line [here](mailto:ogeobubu@gmail.com).  
 
-- 👨‍💻 Pronouns: He/Him
-- 📫 How to reach me: 
-  - [![Linkedin Badge](https://img.shields.io/badge/-ogeobubu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oge-obubu/)](https://www.linkedin.com/in/oge-obubu/)
-  - [![Twitter Badge](https://img.shields.io/badge/-@ogeobubu-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ogeobubu "Follow on Twitter")
-- 🌱 Languages and Tools:
+ ⚡ As a passionate Frontend and full-stack MERN developer based in Nigeria 🇳🇬, I thrive on crafting clean, reusable code and optimizing performance. I love transforming concepts into dynamic projects that resonate with users.
 
-<div align="left">
-  <p align="left">
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-    <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-    <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-    <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a>
-    <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
-  </p>
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:ogeobubu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ogeobubu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ogeobubu.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogeobubu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ogeobubu/github-readme-stats)
+<hr/>
+
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,nodejs,express,firebase,mongodb" width={100} />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🌟 GitHub Stats</h2>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeobubu&layout=donut" alt="Oge Obubu's Top Languages">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ogeobubu&show_icons=true&theme=radical" alt="Oge Obubu's GitHub Stats">
+</div>
