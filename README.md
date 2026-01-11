@@ -11,7 +11,7 @@
 <div align="center">
  
  🔭 I’m on a mission to **turn my ideas into reality!**  
- 🌱 Currently diving into **React Native** & **Laravel** to expand my horizons.
+ 🌱 Currently diving into **React Native** & **Laravel** to expand my horizons..
  
  💬 Let's chat! Ask me anything about **JavaScript, TypeScript, React, TailwindCSS, NodeJS**... or drop me a line [here](mailto:ogeobubu@gmail.com).  
 
