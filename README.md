@@ -44,6 +44,5 @@
 
 <div align="center">
   <h2>🌟 GitHub Stats</h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeobubu&layout=donut" alt="Oge Obubu's Top Languages">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ogeobubu&show_icons=true&theme=radical" alt="Oge Obubu's GitHub Stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=ogeobubu" alt="Oge Obubu's Top Languages" />
 </div>
