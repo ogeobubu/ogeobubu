@@ -44,6 +44,18 @@
 
 <div align="center">
   <h2>🌟 GitHub Stats</h2>
-  <img align="left" src="https://streak-stats.demolab.com/?user=ogeobubu" alt="Oge Obubu's Top Languages" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeobubu&layout=donut" alt="Oge Obubu's Top Languages">
+  <a href="https://github.com/ogeobubu">
+    <img src="https://readme-stats-github.pages.dev/api?username=ogeobubu&show_icons=true&theme=shadow" alt="Oge's GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/ogeobubu">
+    <img src="https://readme-stats-github.pages.dev/api/top-langs?username=ogeobubu&layout=compact&theme=shadow" alt="Top Languages" height="165" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ogeobubu">
+    <img src="https://streak-stats.demolab.com/?user=ogeobubu&theme=shadow" alt="GitHub Streak" height="165" />
+  </a>
 </div>
