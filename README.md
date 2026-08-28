@@ -13,20 +13,20 @@
  🔭 I’m on a mission to **turn my ideas into reality!**  
  🌱 Currently diving into **React Native** & **Laravel** to expand my horizons.
  
- 💬 Let's chat! Ask me anything about **JavaScript, TypeScript, React, TailwindCSS, NodeJS**... or drop me a line [here](mailto:ogeobubu@gmail.com).  
+ 💬 Let's chat! Ask me anything about **JavaScript, TypeScript, React, TailwindCSS, NodeJS**... or drop me a line [here](mailto:contact@ogeobubu.tech).  
 
  ⚡ As a passionate Frontend and full-stack MERN developer based in Nigeria 🇳🇬, I thrive on crafting clean, reusable code and optimizing performance. I love transforming concepts into dynamic projects that resonate with users..
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:ogeobubu@gmail.com" target="_blank">
+  <a href="mailto:contact@ogeobubu.tech" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/oge-obubu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ogeobubu.name.ng" target="_blank">
+  <a href="https://ogeobubu.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
