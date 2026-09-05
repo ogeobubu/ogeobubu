@@ -13,7 +13,7 @@
  🔭 I’m on a mission to **turn my ideas into reality!**  
  🌱 Currently diving into **React Native** & **Laravel** to expand my horizons.
  
- 💬 Let's chat! Ask me anything about **JavaScript, TypeScript, React, TailwindCSS, NodeJS**... or drop me a line [here](mailto:contact@ogeobubu.tech).  
+ 💬 Let's chat! Ask me anything about **JavaScript, TypeScript, React, TailwindCSS, NodeJS**... or drop me a line [here](mailto:contact@ogeobubu.tech) 
 
  ⚡ As a passionate Frontend and full-stack MERN developer based in Nigeria 🇳🇬, I thrive on crafting clean, reusable code and optimizing performance. I love transforming concepts into dynamic projects that resonate with users..
 
