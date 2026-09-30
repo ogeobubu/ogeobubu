@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Oge+!;" />
 </h1>
 
-<h3 align="center">Frontend | MERN Stack | Software Developer</h3>
+<h3 align="center">Frontend | MERN Stack | Software Developer.</h3>
 
 <br/>
 
